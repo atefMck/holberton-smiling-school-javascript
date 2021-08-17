@@ -24,7 +24,7 @@
 
 ### Homepage Designs
 #### Homepage desktop design
-![Homepage Desktop UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/homepage_desktop.png)
+![Homepage Desktop UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/homepage_desktop.png?raw=true)
 #### Homepage tablet design
 ![Homepage Tablet UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/homepage_tablet.png)
 #### Homepage mobile design
