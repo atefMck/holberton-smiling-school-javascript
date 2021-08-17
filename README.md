@@ -24,30 +24,30 @@
 
 ### Homepage Designs
 #### Homepage desktop design
-![Homepage Desktop UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/homepage_desktop.png?raw=true)
+![Homepage Desktop UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/homepage_desktop.png?raw=true)
 #### Homepage tablet design
-![Homepage Tablet UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/homepage_tablet.png)
+![Homepage Tablet UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/homepage_tablet.png)
 #### Homepage mobile design
-![Homepage Mobile UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/homepage_mobile.png)
+![Homepage Mobile UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/homepage_mobile.png)
 
 ### Courses Designs
 #### Courses desktop design
-![Courses Desktop UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/courses_desktop.png)
+![Courses Desktop UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/courses_desktop.png)
 #### Courses tablet design
-![Courses Tablet UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/courses_tablet.png)
+![Courses Tablet UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/courses_tablet.png)
 #### Courses mobile design
-![Courses Mobile UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/courses_mobile.png)
+![Courses Mobile UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/courses_mobile.png)
 
 ### Pricing Designs
 #### Pricing desktop design
-![Pricing Desktop UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/pricing_desktop.png)
+![Pricing Desktop UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/pricing_desktop.png)
 #### Pricing tablet design
-![Pricing Tablet UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/pricing_tablet.png)
+![Pricing Tablet UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/pricing_tablet.png)
 #### Pricing mobile design
-![Pricing Mobile UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/tree/master/screenshots/pricing_mobile.png)
+![Pricing Mobile UI design](https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/screenshots/pricing_mobile.png)
 
 ## AUTHOR
-Mariem Matri : [LinkedIn] | [GitHub] | [Twitter]
+Atef Mechken : [LinkedIn] | [GitHub] | [Twitter]
 
 [LinkedIn]: <https://www.linkedin.com/in/atefmck>
 [GitHub]: <https://github.com/atefmck>
